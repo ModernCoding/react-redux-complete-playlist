@@ -1,4 +1,5 @@
 import React from 'react';
+import './Ninjas.sass';
 
 const Ninjas = ({ninjas, deleteNinja}) => {
 
